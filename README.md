@@ -1,1 +1,1 @@
-# go-chi-w-react-auth-example-
+# go-chi-w-react-auth-example
